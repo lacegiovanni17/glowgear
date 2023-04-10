@@ -1,4 +1,51 @@
+## Glowgear e-commerce shop
+### [Live Site]()
+
+
+## About
+* 👋 Hi, I’m Chidike Henry 
+* 😎 I’m a MERN fullstack engineer
+* 💻 This is an interactive e-commerce  webapp made with made with NextJS, ReactJS, TailwindCSS, Typescript and MongoDB.
+* 🌍 Website:  
+* 💞️ I’m looking to collaborate on JS projects 
+* 📫 How to reach me chidike.henry@gmail.com
+
+
+## Introduction
+This is a code repository for the corresponding video. 
+
+With featured posts of items 
+
+## Technologies Used
+* TailwindCSS
+* ReactJS
+* NextJS
+* Typescript
+* MongoDB
+* Paypal
+* Stripe
+
+## Author
+#### 👤 Author1
+- GitHub: [@lacegiovanni17]https://github.com/lacegiovanni17
+- Twitter: [@ChidikeC] https://twitter.com/ChidikeC
+- LinkedIn: [LinkedIn]https://www.linkedin.com/in/chidike-chizoba-25628a40/
+
+## Contributing 
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+Please give a ⭐️ if you like this project! 
+
+## Acknowledgments
+- Hat tip to anyone contributed one way or the other.
+- Inspiration
+- etc
+
+
+
 ## Getting Started with Project Building
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
